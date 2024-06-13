@@ -1,2 +1,2 @@
 # python-autogui
-Music bot using pyautogui
+Script de musica feito com Python
